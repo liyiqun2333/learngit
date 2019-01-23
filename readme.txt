@@ -3,3 +3,4 @@ Git is free software.
 test github
 test github push origin master
 Creating a new branch is quick AND simple.
+some thing
